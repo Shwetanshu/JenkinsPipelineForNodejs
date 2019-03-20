@@ -1,0 +1,23 @@
+{
+  "name": "jenkinspipelinefornodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shwetanshu/JenkinsPipelineForNodejs.git"
+  },
+  "author": "Shwetanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shwetanshu/JenkinsPipelineForNodejs/issues"
+  },
+  "homepage": "https://github.com/Shwetanshu/JenkinsPipelineForNodejs#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
